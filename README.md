@@ -14,10 +14,11 @@
 
 - <b>Bachelor of Science in Information Technology (Cum Laude), Columbia Southern University</b>
 
-<h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Secure Access with Azure Active Directory</b>
   - [Azure Active Directory]( https://github.com/GIJane11226/Azure-Active-Directory)
 
+<h2>👨‍💻 Labs:</h2>
 
-
+<h2>👨‍💻 Coursework:</h2>
