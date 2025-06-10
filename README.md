@@ -20,24 +20,21 @@ Additionally, my background in creative writing and film has sharpened my abilit
 * **Myers-Briggs Type Indicator (MBTI) Certification STEP I and STEP** | Myers-Briggs Company 
 
 
-## 🔧 Skills & Technologies
+## 🔧 Skills & Technologies🔧
 
 * **Security:** Security Information and Event Management (SIEM), Vulnerability Assessment, Threat Intelligence, Incident Response, Access Control, Network Security
 * **Cloud:** Microsoft Azure, Azure Active Directory
 * **Operating Systems:** Windows, Linux
-* **Languages:** (List any programming or scripting languages you are learning or have experience with, e.g., Python, Bash)
-* **Tools:** (List any specific tools you have used, e.g., Wireshark, Nmap, Metasploit)
+  
 
-
-## 📚Education
-
+## 📚Education📚
 
 * **Bachelor of Science, Cybersecurity and Information Assurance** | Western Governors University (Expected December 2025) 
 * **Master of Fine Arts in Creative Writing** | Full Sail University 
 * **Graduate Certificate in Film and Video** | Full Sail University 
 * **Bachelor of Science in Information Technology (Cum Laude)** | Columbia Southern University
 
-## 👨‍💻 Projects and Labs
+## 👨‍💻 Projects and Labs👨‍💻
 
 ### Secure Access with Azure Active Directory
 
