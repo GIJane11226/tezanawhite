@@ -1,8 +1,5 @@
 # Welcome to My GitHub Portfolio
 
-<p align="center">
-  <img src="[Link to a professional-looking banner image or your profile picture]" alt="Banner" width="800"/>
-</p>
 
 ## 👋 About Me
 
