@@ -42,4 +42,6 @@ Additionally, my background in creative writing and film has sharpened my abilit
 ### Secure Access with Azure Active Directory
 
 * **[Secure Access with Azure Active Directory](https://github.com/GIJane11226/Azure-Active-Directory)**
+* **[DoD Cyber Sentinel Challenge 2025 Recap]( https://github.com/GIJane11226/DoD-Cyber-Sentinel-Challenge-2025)**
+
     
