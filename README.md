@@ -41,11 +41,5 @@ Additionally, my background in creative writing and film has sharpened my abilit
 
 ### Secure Access with Azure Active Directory
 
-* **[Azure Active Directory Project](https://github.com/GIJane11226/Azure-Active-Directory)**
-    * **Objective:** To design and implement a secure and efficient access management solution using Azure Active Directory.
-    * **Key Activities:**
-        * Configured user and group policies to enforce the principle of least privilege.
-        * Implemented Multi-Factor Authentication (MFA) to enhance security for user sign-ins.
-        * Established Conditional Access policies to control access based on user, location, and device risk.
-        * Monitored sign-in logs and user activity to detect and respond to potential security threats.
-    * **Skills Demonstrated:** Identity and Access Management (IAM), Cloud Security, Microsoft Azure, Azure Active Directory.
+* **[Secure Access with Azure Active Directory](https://github.com/GIJane11226/Azure-Active-Directory)**
+    
