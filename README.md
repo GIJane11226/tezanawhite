@@ -10,7 +10,7 @@ Additionally, my background in creative writing and film has sharpened my abilit
 ## ⌨️ Certifications ⌨️
 
 * **CompTIA Security+ Certification** | (CompTIA) 
-* **Google Cybersecurity Certificate** | Google (Online) 
+* **Google Cybersecurity Certificate** | Google 
 * **Leadership Practices Inventory (LPI) Coaching** | FlashPoint Leadership 
 * **Leadership Challenge Workshop Facilitator** | FlashPoint Leadership 
 * **Certified TetraMap Facilitator** | TetraMap 
@@ -25,8 +25,7 @@ Additionally, my background in creative writing and film has sharpened my abilit
 * **Security:** Security Information and Event Management (SIEM), Vulnerability Assessment, Threat Intelligence, Incident Response, Access Control, Network Security
 * **Cloud:** Microsoft Azure, Azure Active Directory
 * **Operating Systems:** Windows, Linux
-* **Languages:** (List any programming or scripting languages you are learning or have experience with, e.g., Python, Bash)
-* **Tools:** (List any specific tools you have used, e.g., Wireshark, Nmap, Metasploit)
+
 
 
 ## 📚Education📚
